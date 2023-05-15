@@ -6,6 +6,9 @@ In this project we analyze different points of the Guadalajara Metropolitan Area
 - Pandas
 - Folium
 - Bing Maps API
+- Requests
+- IPython.display
+- Geopy
 
 ## Description of the code files.
 
